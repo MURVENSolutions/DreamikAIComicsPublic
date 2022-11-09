@@ -1,0 +1,2 @@
+SoF,ReleaseTimeStamp,PkgName,Version,CurrentActive,ActiveTill,Depriciated,EULAUpdate,TriggerUpdate,TriggerLimit,DownLoadLink,PrintLimit,Field12,Field13,Field14,Field15,EoF
+#,2022-011-09T18:00:00,comicgen,v1.0.0,yes,*,*,yes,yes,25,http://,1000,*,*,*,*,!
